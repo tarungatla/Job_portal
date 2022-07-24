@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "company": "Photosnap",
+      "position": "Senior Frontend Developer",
+      "location": "USA Only",
+      "languages": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": 2,
+      "company": "Manage",
+      "position": "Fullstack Developer",
+      "location": "Remote",
+      "languages": ["Python"]
+    },
+    {
+      "id": 3,
+      "company": "Account",
+      "position": "Junior Frontend Developer",
+      "location": "USA Only",
+      "languages": ["JavaScript"]
+    }
+  ]
